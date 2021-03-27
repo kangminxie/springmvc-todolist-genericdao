@@ -1,0 +1,42 @@
+body {
+    padding-top: 54px;
+    height: 100vh;
+    font-family: Georgia, serif;
+}
+.error {
+    color:red
+}
+.remind {
+    color:coral;
+}
+.welcome {
+    color:dodgerblue;
+}
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.my-big-checkbox {
+    width: 20px;
+    height: 20px;
+}
+.my-big-select {
+    width: 180px;
+    height: 36px;
+}
+.my-right-align {
+    text-align: right;
+}
+.my-big-button {
+    margin-top: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    height: 45px;
+}
+.my-big-gap {
+    height: 60px;
+}
+.my-user-detail {
+    margin-top: 0;
+    margin-bottom: 0;
+}
