@@ -82,7 +82,7 @@
                             <div>
                                 <address>
                                     <strong>Kangmin Xie</strong><br>
-                                    <a href="mailto:#">kangmin.xie@gmail.com</a><br>
+                                    <a href="mailto:#">kangmin.xie at gmail.com</a><br>
                                 </address>
                                 <address>
                                     <strong>Carnegie Mellon University</strong><br>
